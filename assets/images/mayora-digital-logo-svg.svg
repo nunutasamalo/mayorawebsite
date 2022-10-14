@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+	<title>commBank-logo-svg</title>
+	<style>
+		.s0 { fill: #ff6600 } 
+		.s1 { fill: #006699 } 
+	</style>
+	<path id="Layer 1" class="s0" d="m0 1h64v62.8h-64z"/>
+	<path id="Layer 2" class="s1" d="m73 59c-24.9 0-45-11.2-45-25 0-13.8 20.1-25 45-25 24.9 0 45 11.2 45 25 0 13.8-20.1 25-45 25z"/>
+</svg>

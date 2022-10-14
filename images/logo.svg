@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 46 51" width="46" height="51">
+	<title>Group-svg</title>
+	<style>
+		.s0 { fill: #2477ab } 
+		.s1 { fill: #e94d00 } 
+	</style>
+	<path id="Layer" class="s0" d="m45.6 30.5c0 11-8.9 19.8-19.8 19.8h-3.1v-25.1l16.3-15.1c2.2 4 3.4 8.6 3.4 13.4l-7 7z"/>
+	<path id="Layer" class="s1" d="m0 19.8c0-11 8.9-19.8 19.8-19.8h3.1v25.1l-16.3 15.1c-2.2-4-3.4-8.6-3.4-13.4l7-7z"/>
+</svg>

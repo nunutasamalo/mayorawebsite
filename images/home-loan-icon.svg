@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="60" height="60">
+	<title>home-loan-icon-svg-svg</title>
+	<style>
+		.s0 { fill: #e94d00 } 
+		.s1 { fill: #2477ab } 
+	</style>
+	<g id="home-loan-icon">
+		<g id="house-copy">
+			<path id="Fill-1" class="s0" d="m21 33l11 4.5v16.5l-11-4.4z"/>
+			<path id="Fill-2" fill-rule="evenodd" class="s1" d="m57 29.1h-7.7v16.2c0 2.6-2.1 4.7-4.7 4.7h-10.1v-16.2h-12.9v16.2h-10.9v-20.9h-7.7l25.1-23.1h3.8zm-8.4-1.8l-20.5-18.9-20.5 18.9h4.9v20.9h7.3v-16.2h16.6v16.2h5.6c0.9 0 1.7-0.8 1.7-1.7v-19.2z"/>
+		</g>
+	</g>
+</svg>
